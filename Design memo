@@ -1,0 +1,6 @@
+Why is a hash table the right structure for fast lookups?
+A hash table is the rigth structure for a fast look up becuase of how the table stores its values instead of having to search through each index or search each branch to find the node you are looking for the Hashtable stores each value and math calculates where the index would should be 
+How did you handle collisions?
+I handled collisions by making the program recogmize that there is already an object in a index and then if something is in the index it will attach that object to it  
+When might an engineer choose a hash table over a list or tree?
+they will choose a hash table over a list or tree when they need quick look ups with a lot of data because of the way that it works lists you need to write a program that goes through each index with a lot of data to process through a hash table is able to assign it a number and quick look up its number in the idex and the data attached to it
